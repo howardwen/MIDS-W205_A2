@@ -2,13 +2,13 @@
 
 Bucket: howardwenw205assignment2
 
-#NBAFinals2015
+NBAFinals2015
 https://s3-us-west-2.amazonaws.com/howardwenw205assignment2/%23NBAFinals2015.txt
 
-#Warriors
+Warriors
 https://s3-us-west-2.amazonaws.com/howardwenw205assignment2/%23Warriors.txt
 
-#NBAFinals2015 and #Warriors
+NBAFinals2015 and Warriors
 https://s3-us-west-2.amazonaws.com/howardwenw205assignment2/%23NBAFinals2015_%23Warriors.txt
 
 
